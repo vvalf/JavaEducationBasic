@@ -3,7 +3,7 @@ package Day3;
 import java.lang.reflect.Method;
 
 public class Day3 {
-
+ 
 //*******   Метаклассы   *******
     public static void main(String[] args) throws CloneNotSupportedException, ClassNotFoundException {
         Class cl = Class.forName("Day3.NewAnnotationType");
